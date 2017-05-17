@@ -1,0 +1,2 @@
+# badidea
+badidea app
