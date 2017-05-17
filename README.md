@@ -1,2 +1,2 @@
 # badidea
-badidea app
+badidea app something here
